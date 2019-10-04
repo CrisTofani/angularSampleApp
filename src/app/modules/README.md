@@ -2,7 +2,7 @@
 
 This folder should contain all the modules that compose the application.
 
-Each Pipe MUST be defined whith the following files and (eventually) folders:
+Each Module, stored in a subfolder, MUST be defined whith the following files and (eventually) folders:
 
 - Components
 - Services
